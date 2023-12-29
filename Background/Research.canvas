@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"43d3ff86a5f8e4f0","type":"file","file":"Remote/Background/Climate Research.md","x":-640,"y":-520,"width":400,"height":400},
+		{"id":"5677b4ab4a5461cd","x":-140,"y":-180,"width":400,"height":400,"type":"file","file":"Remote/Background/Year Without Summer Wikipedia.md"}
+	],
+	"edges":[
+		{"id":"10e16c1a9b1e7455","fromNode":"43d3ff86a5f8e4f0","fromSide":"right","toNode":"5677b4ab4a5461cd","toSide":"top"}
+	]
+}
