@@ -5,7 +5,8 @@ tags:
 ---
 https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa
 ## Volcanic Winter Wikipedia
-https://en.wikipedia.org/wiki/Volcanic_winter
-
+[[Volcanic Winter Wikipedia]]
+## Year Without Summer
 [[Year Without Summer Wikipedia]]
-
+## Jetstream
+[[Jetstream]]

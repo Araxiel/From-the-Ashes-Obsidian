@@ -1,0 +1,1 @@
+In here goes everything related to the history files, but relating to overall design, nothing too specific in relationship to the actual game mechanics.

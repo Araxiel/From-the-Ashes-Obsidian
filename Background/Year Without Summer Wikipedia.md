@@ -1,9 +1,10 @@
 ---
-copied: true
 tags:
   - climate
   - research
   - wikipedia
+aliases:
+  - Year Without Summmer
 ---
 https://en.wikipedia.org/wiki/Year_Without_a_Summer
 #### Africa

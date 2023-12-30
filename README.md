@@ -17,3 +17,8 @@ https://gist.github.com/Araxiel/1fde2ab2ee53f7718176d1a81c2486ac
 | obsidian-redirect | Optional  	|
 | metaedit        	| Optional  	|
 | badges        	| Not Yet Used 	|
+
+Settings for everything is essentially default.
+
+## Why not simply have the `.obsidian` folder included in the repo?
+Because on how obsidian-git works. It can only keep track of files within a folder within the vault, but not the `.obsidian` folder itself. While one could just ignore obsidian-git and instead source control the entire vault, this does mean one needs to constantly manually push backups of the design doc (and setting up auto-backups yourself is way above my skill level).

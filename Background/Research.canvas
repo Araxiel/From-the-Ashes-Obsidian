@@ -1,9 +1,21 @@
 {
 	"nodes":[
-		{"id":"43d3ff86a5f8e4f0","type":"file","file":"Remote/Background/Climate Research.md","x":-640,"y":-520,"width":400,"height":400},
-		{"id":"5677b4ab4a5461cd","x":-140,"y":-180,"width":400,"height":400,"type":"file","file":"Remote/Background/Year Without Summer Wikipedia.md"}
+		{"id":"5677b4ab4a5461cd","type":"file","file":"Remote/Background/Year Without Summer Wikipedia.md","x":-280,"y":100,"width":400,"height":400,"color":"5"},
+		{"id":"5b3decc8e28bf796","x":-210,"y":-80,"width":260,"height":100,"color":"5","type":"text","text":"Ash is blocking out the sun."},
+		{"id":"b59b306e2731645c","type":"file","file":"Remote/Background/Jetstream.md","x":-1300,"y":153,"width":400,"height":400,"color":"4"},
+		{"id":"feb528a5d11b51b6","x":-1233,"y":-67,"width":267,"height":132,"color":"4","type":"text","text":"Ash is being circulated around the world, especially the northern hemisphere."},
+		{"id":"5f1660af9d94745e","x":-760,"y":179,"width":340,"height":174,"color":"5","type":"text","text":"Colder climate causes the northern (and southern) jet stream to go lower, meaning more icy polar air is pushing south."},
+		{"id":"33c5dc98b55b959a","type":"file","file":"Remote/Background/Volcanic Winter Wikipedia.md","x":-820,"y":-580,"width":460,"height":400,"color":"3"},
+		{"id":"a8ec436de110c983","x":-1360,"y":-1060,"width":426,"height":300,"color":"3","type":"text","text":"##### Idea:\nAsteroid hitting earth. Most of it is burning up in the atmosphere causing tons ash to be released, but also some of it does land and increased volcanic activity causing some big volcanic explosion, that causes even more ash over many years?\n\nhttps://en.wikipedia.org/wiki/Tunguska_event"},
+		{"id":"43d3ff86a5f8e4f0","type":"file","file":"Remote/Background/Climate Research.md","x":-440,"y":-1660,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"10e16c1a9b1e7455","fromNode":"43d3ff86a5f8e4f0","fromSide":"right","toNode":"5677b4ab4a5461cd","toSide":"top"}
+		{"id":"cc7ee636218390d9","fromNode":"33c5dc98b55b959a","fromSide":"bottom","toNode":"5b3decc8e28bf796","toSide":"top","label":"Causes"},
+		{"id":"31eccaf8332b1b17","fromNode":"5b3decc8e28bf796","fromSide":"bottom","toNode":"5677b4ab4a5461cd","toSide":"top"},
+		{"id":"2678a3771395f9af","fromNode":"33c5dc98b55b959a","fromSide":"bottom","toNode":"feb528a5d11b51b6","toSide":"top"},
+		{"id":"b6ca7c94d1eba5ad","fromNode":"feb528a5d11b51b6","fromSide":"bottom","toNode":"b59b306e2731645c","toSide":"top"},
+		{"id":"e8422eff854a1d9a","fromNode":"5677b4ab4a5461cd","fromSide":"left","toNode":"5f1660af9d94745e","toSide":"right"},
+		{"id":"a59dcc853f238e7d","fromNode":"5f1660af9d94745e","fromSide":"left","toNode":"b59b306e2731645c","toSide":"right"},
+		{"id":"e7cacc46135839c6","fromNode":"a8ec436de110c983","fromSide":"bottom","toNode":"33c5dc98b55b959a","toSide":"top"}
 	]
 }
