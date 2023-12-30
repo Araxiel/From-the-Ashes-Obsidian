@@ -1,7 +1,9 @@
-# From-the-Ashes-Obsidian
-This is an edit
-another edit
+# From the Ashes Obsidian Vault
+The Obsidian Vault associated with [From the Ashes](https://github.com/Araxiel/From-the-Ashes/), the steampunk, post-apocalpyse Victoria 3 mod.
 
-first push
+# What is Obsidian?
+[Obsidian](https://obsidian.md/) is a open-source note taking tool.
 
-another test?
+# What Plugins are used?
+## Core
+    - 
