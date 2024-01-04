@@ -1,0 +1,1 @@
+While no place on earth remained unaffected, it is primarily the Northern Hemisphere including [[Europe]] where most of the death and destruction happened, and where the great powers of the Victorian era resided.

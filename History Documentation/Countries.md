@@ -1,7 +1,7 @@
 ---
 tags:
   - overview
-cssclasses:
+  - lore
 ---
 These are a list of countries. I tend to use the name here that makes the most sense, not the game nation-states or states of the time, but the general (modern) OTL understanding of these places. Some of the entries here will also be umbrella groupings (i.e. Balkans)
 ### Categories
