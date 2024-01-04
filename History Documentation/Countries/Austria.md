@@ -12,7 +12,4 @@ country-tags:
   - refugees
   - major
 ---
-Type:: 
-#refugees 
-
-Austrians moved south, government collapsed
+Austrians moved south, government collapsed.

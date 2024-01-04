@@ -18,7 +18,7 @@ Also, the entire world was greatly shook by the event, as such even Survivor nat
 #### #Exiles
 These are nations who evacuated their people and (more importantly) their government, generally to some form of colonial holding.
 ##### Major Exiles
-[[Britain]]
+[[United Kingdom]]
 [[France]]
 [[Netherlands]]
 ##### Minor Exiles

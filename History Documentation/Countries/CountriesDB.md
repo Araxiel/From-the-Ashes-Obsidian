@@ -87,6 +87,7 @@ columns:
       - { label: "exiles", value: "exiles", color: "hsl(235, 95%, 90%)"}
       - { label: "survivors", value: "survivors", color: "hsl(357, 95%, 90%)"}
       - { label: "minor", value: "minor", color: "hsl(188, 95%, 90%)"}
+      - { label: "secessionist", value: "secessionist", color: "hsl(324, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

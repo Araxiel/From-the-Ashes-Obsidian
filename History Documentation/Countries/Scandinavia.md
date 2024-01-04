@@ -18,6 +18,5 @@ country-tags:
   - survivors
   - minor
 ---
-
 Mostly #survivors
 

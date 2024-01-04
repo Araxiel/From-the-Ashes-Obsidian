@@ -11,9 +11,10 @@ aliases:
   - Great Britain
   - British Empire
   - British
+  - United Kingdom
+  - Britain
 country-tags:
   - major
   - exiles
 ---
-Type:: 
-#exiles iles that moved to India, kept most of the Empire
+#exiles that moved to India, kept most of the Empire

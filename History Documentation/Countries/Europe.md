@@ -1,0 +1,2 @@
+Europe is near depopulated, with only microscopic pockets of civilised nation-states, in an ocean of ruins and scavengers. #europe
+Most large European powers like [[France]] or the [[United Kingdom]] are seeking to return one day and reclaim their home.
