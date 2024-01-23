@@ -11,7 +11,7 @@ So, things probably started getting worse around 1858, and world had irreversibl
 
 Game starts in 1876.
 
-Technological divergence starts around 1955.
+Technological divergence starts around 1956.
 
 ------
 ~~The general idea is that the primary point of divergence, and [[The Event]] making everything worse, being around the year 1850. ~~
